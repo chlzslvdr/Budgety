@@ -2,7 +2,7 @@
 
 # Budgety
 
-This is a [Playground Exercise](https://budgety-demo.netlify.app) made with [ Udemy Complete Javascript Course](https://github.com/jonasschmedtmann/complete-javascript-course).
+This is a [Demo App](https://budgety-demo.netlify.app) made with [ Udemy Complete Javascript Course](https://github.com/jonasschmedtmann/complete-javascript-course).
 
 ## Purpose
 
