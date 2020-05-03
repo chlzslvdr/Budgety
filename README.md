@@ -11,3 +11,8 @@ Learn Advanced Javascript
 ## Resources
 
 http://codingheroes.io/resources
+
+
+## About
+
+All copyrights for this demo project belongs to [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
