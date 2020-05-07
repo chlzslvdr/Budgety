@@ -6,7 +6,7 @@ This is a [Demo App](https://budgety-demo.netlify.app) made with [Udemy Complete
 
 ## Purpose
 
-Learn Advanced Javascript(ES5)
+Learn Vanilla Javascript(ES5)
 
 ## Resources
 
